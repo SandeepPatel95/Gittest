@@ -18,7 +18,6 @@ void push1(int stack[])
        {
         cin>>item;
         TOP=TOP+1;
-        //cout<<"HI"<<endl;
         stack[TOP]=item;
       // size--;
        }
