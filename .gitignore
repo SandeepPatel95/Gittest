@@ -1,0 +1,7 @@
+*.o
+*.exe
+test
+a.out
+stack.cpp
+StackNew
+S
